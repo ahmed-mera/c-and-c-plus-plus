@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1571243237 source:c:\xampp\htdocs\ahmed_php\c & c++\liste\functions.c
+	"header.h"
+
+1571229383 source:c:\xampp\htdocs\ahmed_php\c & c++\liste\main.c
+	"header.h"
+
+1571229383 c:\xampp\htdocs\ahmed_php\c & c++\liste\header.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1570996702 c:\xampp\htdocs\ahmed_php\c & c++\liste\functions.c
+

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/xampp/htdocs/Ahmed_php/C & C++/esercizi_18_03_2020/functions.c
+header.h
+C:/xampp/htdocs/Ahmed_php/C & C++/esercizi_18_03_2020/header.h
+
+C:/xampp/htdocs/Ahmed_php/C & C++/esercizi_18_03_2020/header.h
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+windef.h
+-
+

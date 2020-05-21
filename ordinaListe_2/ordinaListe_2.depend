@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1572266567 source:c:\xampp\htdocs\ahmed_php\c & c++\ordinaliste_2\func.cpp
+	"header.h"
+
+1572287908 c:\xampp\htdocs\ahmed_php\c & c++\ordinaliste_2\header.h
+	<iostream>
+	<string.h>
+
+1572287003 source:c:\xampp\htdocs\ahmed_php\c & c++\ordinaliste_2\main.cpp
+	"header.h"
+

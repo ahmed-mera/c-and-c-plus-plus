@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572805899 source:c:\xampp\htdocs\ahmed_php\c & c++\verifica\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

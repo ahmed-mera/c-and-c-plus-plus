@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/xampp/htdocs/Ahmed_php/C & C++/oop/ListeOggetti/header.h
+iostream
+-
+
+C:/xampp/htdocs/Ahmed_php/C & C++/oop/ListeOggetti/main.cpp
+header.h
+C:/xampp/htdocs/Ahmed_php/C & C++/oop/ListeOggetti/header.h
+

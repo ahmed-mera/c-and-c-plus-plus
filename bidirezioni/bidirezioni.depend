@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1573597558 source:c:\xampp\htdocs\ahmed_php\c & c++\bidirezioni\main.cpp
+	"header.h"
+
+1573588394 c:\xampp\htdocs\ahmed_php\c & c++\bidirezioni\header.h
+	<iostream>
+
+1573598597 source:c:\xampp\htdocs\ahmed_php\c & c++\bidirezioni\func.cpp
+	"header.h"
+

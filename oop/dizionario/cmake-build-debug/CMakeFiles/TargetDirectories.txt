@@ -1,0 +1,3 @@
+C:/xampp/htdocs/Ahmed_php/C & C++/oop/dizionario/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/xampp/htdocs/Ahmed_php/C & C++/oop/dizionario/cmake-build-debug/CMakeFiles/dizionario.dir
+C:/xampp/htdocs/Ahmed_php/C & C++/oop/dizionario/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1570534509 source:c:\xampp\htdocs\ahmed_php\c & c++\structpointer\main.cpp
+	"functions.h"
+
+1570536488 c:\xampp\htdocs\ahmed_php\c & c++\structpointer\functions.h
+	<iostream>
+	<malloc.h>
+	<time.h>
+	<string.h>
+

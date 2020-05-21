@@ -1,0 +1,3 @@
+C:/xampp/htdocs/Ahmed_php/C & C++/stack_esercizi_12_02_2020/cmake-build-debug/CMakeFiles/stack_esercizi_12_02_2020.dir
+C:/xampp/htdocs/Ahmed_php/C & C++/stack_esercizi_12_02_2020/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/xampp/htdocs/Ahmed_php/C & C++/stack_esercizi_12_02_2020/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/xampp/htdocs/Ahmed_php/C & C++/esercizi_12_02_2020_( alberi binari )/functions.c
+header.h
+C:/xampp/htdocs/Ahmed_php/C & C++/esercizi_12_02_2020_( alberi binari )/header.h
+
+C:/xampp/htdocs/Ahmed_php/C & C++/esercizi_12_02_2020_( alberi binari )/header.h
+stdio.h
+-
+stdlib.h
+-
+

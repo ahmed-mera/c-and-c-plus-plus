@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/xampp/htdocs/Ahmed_php/C & C++/alberi/main.cpp
+iostream
+-
+cstdlib
+-
+fstream
+-
+

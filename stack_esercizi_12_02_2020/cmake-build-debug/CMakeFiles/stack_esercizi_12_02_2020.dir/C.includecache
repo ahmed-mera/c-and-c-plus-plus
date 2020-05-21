@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/xampp/htdocs/Ahmed_php/C & C++/stack_esercizi_12_02_2020/main.c
+stack.h
+C:/xampp/htdocs/Ahmed_php/C & C++/stack_esercizi_12_02_2020/stack.h
+
+C:/xampp/htdocs/Ahmed_php/C & C++/stack_esercizi_12_02_2020/stack.h
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+

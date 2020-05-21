@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1572029569 source:c:\xampp\htdocs\ahmed_php\c & c++\ordinpointer\main.cpp
+	"header.h"
+
+1571666381 c:\xampp\htdocs\ahmed_php\c & c++\ordinpointer\header.h
+	<iostream>
+	<malloc.h>
+	<string.h>
+
+1572028876 source:c:\xampp\htdocs\ahmed_php\c & c++\ordinpointer\functions.cpp
+	"header.h"
+

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/xampp/htdocs/Ahmed_php/C & C++/oop/dizionario/header.h
+iostream
+-
+string.h
+-
+stdlib.h
+-
+fstream
+-
+
+C:/xampp/htdocs/Ahmed_php/C & C++/oop/dizionario/main.cpp
+header.h
+C:/xampp/htdocs/Ahmed_php/C & C++/oop/dizionario/header.h
+

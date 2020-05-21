@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/xampp/htdocs/Ahmed_php/C & C++/esercizi_alberi_binari/tree.h
+iostream
+-
+fstream
+-
+list
+-
+
+C:/xampp/htdocs/Ahmed_php/C & C++/stl_list_vector_stack_binaryTree/main.cpp
+iostream
+-
+list
+-
+vector
+-
+stack
+-
+../esercizi_alberi_binari/tree.h
+C:/xampp/htdocs/Ahmed_php/C & C++/esercizi_alberi_binari/tree.h
+

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/xampp/htdocs/Ahmed_php/C & C++/esercizi_25_03_2020/header.h
+iostream
+-
+ctime
+-
+fstream
+-
+
+C:/xampp/htdocs/Ahmed_php/C & C++/esercizi_25_03_2020/main.cpp
+header.h
+C:/xampp/htdocs/Ahmed_php/C & C++/esercizi_25_03_2020/header.h
+
+C:/xampp/htdocs/Ahmed_php/C & C++/esercizi_25_03_2020/orario.cpp
+header.h
+C:/xampp/htdocs/Ahmed_php/C & C++/esercizi_25_03_2020/header.h
+

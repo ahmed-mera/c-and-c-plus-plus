@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/xampp/htdocs/Ahmed_php/C & C++/vector/fun.cpp
+header.h
+C:/xampp/htdocs/Ahmed_php/C & C++/vector/header.h
+
+C:/xampp/htdocs/Ahmed_php/C & C++/vector/header.h
+iostream
+-
+vector
+-
+ctime
+-
+windows.h
+-
+

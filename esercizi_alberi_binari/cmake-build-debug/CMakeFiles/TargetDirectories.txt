@@ -1,0 +1,3 @@
+C:/xampp/htdocs/Ahmed_php/C & C++/esercizi_alberi_binari/cmake-build-debug/CMakeFiles/esercizi_alberi_binari.dir
+C:/xampp/htdocs/Ahmed_php/C & C++/esercizi_alberi_binari/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/xampp/htdocs/Ahmed_php/C & C++/esercizi_alberi_binari/cmake-build-debug/CMakeFiles/rebuild_cache.dir
