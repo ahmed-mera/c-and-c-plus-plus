@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include <string.h>
+
 void executeCommands(char* comment, char * branch );
 int main(int argc, char** argv) {
     (argv[1] != NULL && argv[2] != NULL ) ? executeCommands((char *)argv[1], (char *)argv[2]) : executeCommands((char *) "upgrade code", (char *) "master");
