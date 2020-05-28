@@ -1,0 +1,3 @@
+C:/xampp/htdocs/Ahmed_php/C & C++/virus/cmake-build-debug/CMakeFiles/covid.dir
+C:/xampp/htdocs/Ahmed_php/C & C++/virus/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/xampp/htdocs/Ahmed_php/C & C++/virus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
