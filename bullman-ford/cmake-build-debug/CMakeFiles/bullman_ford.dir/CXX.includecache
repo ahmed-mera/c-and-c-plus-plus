@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/xampp/htdocs/Ahmed_php/C & C++/bullman-ford/functions.cpp
+header.h
+C:/xampp/htdocs/Ahmed_php/C & C++/bullman-ford/header.h
+
+C:/xampp/htdocs/Ahmed_php/C & C++/bullman-ford/header.h
+iostream
+-
+cstdlib
+-
+ctime
+-
+vector
+C:/xampp/htdocs/Ahmed_php/C & C++/bullman-ford/vector
+cstring
+-
+
